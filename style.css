@@ -1,0 +1,226 @@
+body{
+background-color: pink;
+}
+.CVD{
+    background-color: #fff;
+    padding: 133px;
+    position: absolute;
+    width: 69%;
+    max-width: 321px;
+    margin: 88px auto;
+    padding: 146px;
+    border-radius: 8px;
+    left: 76px;
+    top: 6px;
+}
+.TML{
+    background-color: #fff;
+    padding: 102px;
+    position: absolute;
+    width: 46%;
+    max-width: 489px;
+    margin: 483px auto;
+    padding: 30px;
+    border-radius: 3px;
+    top: -31px;
+    left: 96px;
+    right: 10;
+}
+.NLB{
+    background-color: #fff;
+    padding: 102px;
+    position: absolute;
+    width: -40%;
+    max-width: 141px;
+    margin: 189px auto;
+    padding: 140px;
+    border-radius: 67px;
+    top: -124px;
+    left: 846px;
+    right: 10;
+}
+.IPC img {
+    top: 39px;
+    width: 44px;
+    left: 1157px;
+    right: 10;
+    position: absolute;
+
+}
+/*TAKE A BOTTON*/
+
+.buscar-caja {
+    position: absolute;
+    top: 46px;
+    left: 617px;
+    transform: translate(-50%, -50%);
+    background: #2f3640;
+    height: 40px;
+    border-radius: 32px;
+    padding: 16px;
+   }
+   
+   .buscar-caja:hover > .buscar-txt {
+    width: 240px;
+    padding: 0 6px;
+   }
+   
+   .buscar-caja:hover > .buscar-btn {
+    background: rgb(248, 245, 245);
+    color: black;
+   }
+   
+   .buscar-btn {
+    color: none;
+    float: right;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #ffc0cb;
+    display: -webkit-inline-box;
+    justify-content: center;
+    align-items: center;
+    transition: 0.4s;
+    color: white;
+    cursor: pointer;
+    top: 10px;
+    left: 10px;
+}
+  
+    
+   }
+   
+   .buscar-btn i {
+    font-size: 30px;
+    color: none;
+    float:right;
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    background: #d3f7d3;
+    display: flex;
+    justify-content: center
+   }
+   
+   .buscar-txt {
+    border: none;
+    background: none;
+    outline: none;
+    float: left;
+    padding: 0px;
+    color: none;
+    font-size: 17px;
+    transition: 4.4s;
+    line-height: 11px;
+    width: -0;
+    font-weight: 700;
+    top: -30px;
+    right: -22px;
+   }
+  .search-btn{
+    color: none;
+    float:right;
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    background: seagreen;
+    display: flex;
+    justify-content: center;
+  } 
+/*TAKE A BOTTON*/  
+
+
+/*take a new botton of created in tecnolic KSS */
+
+.LLT {
+    position: absolute;
+    top: 424px;
+    left: 1055px;
+    transform: translate(-50%, -50%);
+    background: #ffc0cb;
+    height: 6px;
+    border-radius: 7px;
+    padding: 20px;
+   }                                                 
+   .LLT:hover > .buscar-txt {
+    width: 240px;
+    padding: 0 6px;
+   }
+   
+   .LLT:hover > .buscar-btn {
+    background: rgb(241, 234, 234);
+    color: rgb(0, 0, 0);
+   }
+   
+   .buscar-btn {
+    color: none;
+    float: right;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #2f3640;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.4s;
+    color: white;
+    cursor: pointer;
+    top: 10px;
+    left: 10px;    
+   }
+   
+   .buscar-btn i {
+    color: none;
+    float: right;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #fcfbfb;
+    display: -webkit-inline-box;
+    justify-content: center;
+    align-items: center;
+    transition: 0.4s;
+    color: white;
+    cursor: pointer;
+    top: 10px;
+    left: 10px;
+   }
+   
+   .buscar-txt {
+    border: none;
+    background: none;
+    outline: none;
+    float: left;
+    padding: 0px;
+    color: none;
+    font-size: 17px;
+    transition: 4.4s;
+    line-height: 11px;
+    width: -0;
+    font-weight: 700;
+    top: -30px;
+    right: -22px;
+   }
+  .search-btn{
+    color: none;
+    float:right;
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    background: rgb(241, 241, 241);
+    display: flex;
+    justify-content: center;
+  } 
+
+video{
+    
+    padding: 133px;
+    position: absolute;
+    width: 163%;
+    max-width: 603px;
+    margin: -40px auto;
+    padding: 204px;
+    border-radius: 0px;
+    left: -126px;
+    top: -69px;
+}
